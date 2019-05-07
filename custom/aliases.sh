@@ -4,7 +4,7 @@ alias ohmyzsh="code ~/.oh-my-zsh"
 alias alist="code ~/.oh-my-zsh/custom/aliases.sh"
 alias clist="code ~/.oh-my-zsh/custom/commands.sh"
 alias theme="code ~/.oh-my-zsh/custom/themes/my_custom.zsh-theme"
-alias customize="alist & clist & theme & zshconfig" 
+alias customize="alist & clist & theme & zshconfig"
 
 # FILE SYSTEM
 alias l='ls -lFh'     #size,show type,human readable
@@ -41,7 +41,7 @@ alias actenv="source env/bin/activate"
 
 #PRO TIPS
 # Show files in folder that larger than 100 megabytes.
-# ls -l ./**/*(Lm+100)  
+# ls -l ./**/*(Lm+100)
 
 # Plugin's aliases
 # alias google='web_search google'
